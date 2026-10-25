@@ -23,4 +23,4 @@ Aplikasi **Benz Drive** adalah aplikasi *showroom* mobil mewah berbasis Flutter 
 4. Jalankan aplikasi dengan `flutter run -d chrome` (atau di emulator/HP).
 
 ---
-*Dibuat oleh Sakarina Harera untuk Tugas UTS Pemrograman Mobile.*
+*Dibuat oleh Sakarina Harera untuk Tugas UTS Pemrograman Berbasis Platform.*
