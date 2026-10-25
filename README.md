@@ -13,7 +13,7 @@ Aplikasi **Benz Drive** adalah aplikasi *showroom* mobil mewah berbasis Flutter 
 
 ## 🛠️ Teknologi yang Digunakan
 - **Framework:** Flutter (Dart)
-- **UI/UX:** Custom Theme (Light Mode), AnimatedSwitcher, Material Design 3.
+- **UI/UX:** Custom Theme (Light Mode), Material Design 3.
 - **Aset:** Unsplash (Gambar Mobil)
 
 ## 🚀 Cara Menjalankan Aplikasi
