@@ -1,17 +1,26 @@
-# mercedesbenz_sakarina
+# 🚗 Benz Drive - Mercedes-Benz Showroom
 
-A new Flutter project.
+Aplikasi **Benz Drive** adalah aplikasi *showroom* mobil mewah berbasis Flutter yang dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS). Aplikasi ini mengusung tema *Light Luxury* (elegan, bersih, dan modern) dengan palet warna *Gunmetal*, *Moonstone*, dan *Champagne*.
 
-## Getting Started
+## ✨ Fitur Utama
+- **Login Page:** Halaman masuk yang elegan dengan latar belakang mobil Mercedes-Benz.
+- **Home Page:** Menampilkan katalog mobil, banner promo, fitur pencarian (Search), dan filter kategori.
+- **Detail Mobil:** Menampilkan spesifikasi lengkap mobil dan fitur pilihan warna.
+- **Simulasi Kredit:** Fitur untuk menghitung estimasi cicilan bulanan.
+- **Test Drive & Trade-In:** Formulir interaktif untuk menjadwalkan test drive dan penukaran mobil.
+- **Chat Seller:** Simulasi obrolan dua arah dengan sales.
+- **Layanan Purna Jual:** Informasi seputar servis, garansi, dan asuransi.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi yang Digunakan
+- **Framework:** Flutter (Dart)
+- **UI/UX:** Custom Theme (Light Mode), AnimatedSwitcher, Material Design 3.
+- **Aset:** Unsplash (Gambar Mobil)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Cara Menjalankan Aplikasi
+1. Clone repositori ini: `git clone https://github.com/sakarinaharera/BenzDrive.git`
+2. Masuk ke direktori: `cd BenzDrive`
+3. Jalankan `flutter pub get` untuk mengunduh dependensi.
+4. Jalankan aplikasi dengan `flutter run -d chrome` (atau di emulator/HP).
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Dibuat oleh Sakarina Harera untuk Tugas UTS Pemrograman Mobile.*
